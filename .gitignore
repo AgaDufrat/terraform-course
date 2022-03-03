@@ -1,0 +1,4 @@
+*/.terraform
+*/.terraform.lock.hcl
+ec2instance-us/.terraform/
+ec2instance/.terraform.lock.hcl

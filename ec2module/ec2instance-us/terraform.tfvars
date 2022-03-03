@@ -1,0 +1,1 @@
+ami_image = [ "ami-083602cee93914c0c" , "ami-08e4e35cccc6189f4"]
